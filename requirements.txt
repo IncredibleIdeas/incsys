@@ -1,0 +1,6 @@
+streamlit==1.28.1
+pandas==2.0.3
+plotly==5.17.0
+streamlit-option-menu==0.3.6
+reportlab==4.0.4
+matplotlib==3.7.2
